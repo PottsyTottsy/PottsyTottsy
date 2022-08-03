@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PottsyTottsy
 - 👀 I’m interested in data!
 - 🌱 I’m currently learning about AWS
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on data based investigations
 - 📫 you can reach me at apott@lumeris.com
 
 <!---
